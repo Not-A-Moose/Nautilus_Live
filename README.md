@@ -1,3 +1,3 @@
 # Nautilus_Live
 
-Find the needed c libraries for coqui at https://github.com/coqui-ai/STT/releases
+Nautilus leverages conda for application development and use. To install conda, visit https://docs.conda.io/en/latest/miniconda.html
